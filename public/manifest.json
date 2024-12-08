@@ -1,6 +1,6 @@
 {
-  "short_name": "Todo App",
-  "name": "Todo React App",
+  "short_name": "Agenda de Tarefas",
+  "name": "Agenda de Tarefas",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
