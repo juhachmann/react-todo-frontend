@@ -1,0 +1,39 @@
+.ongoing {
+    background-color: #f7f7f7;
+}
+
+.done {
+    background-color: #d9fad0;
+}
+
+input {
+    border: 1px solid #ccc;
+    padding: 1px 5px;
+    background-color: #fffcfc;
+    border-radius: 5px;
+}
+
+input:disabled {
+    border: none;
+    background-color: transparent;
+}
+
+textarea {
+    border: 1px solid #ccc;
+    padding: 1px 5px;
+    background-color: #fffcfc;
+    border-radius: 5px;
+}
+
+textarea:disabled {
+    border: none;
+    background-color: transparent;
+    resize:none;
+}
+
+.text-date {
+    font-size: medium;
+    color: #8f8e8e;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: normal;
+}
